@@ -145,7 +145,7 @@ THE SOFTWARE. */
     initPlayer: function() {
       var self = this;
 
-      $(self.iframe).load(function(){
+      $(self.iframe).on('load', function(){
         //load vimeo
         if (self.vimeo && self.vimeo.api) {
           self.vimeo.api('unload');
