@@ -1,7 +1,7 @@
 {
-  "name": "videojs-vimeo-v2",
-  "version": "2.0.2",
-  "description": "Video JS Vimeo Plugin including an Hotfix",
+  "name": "videojs-vimeo",
+  "version": "2.0.3",
+  "description": "VideoJS Vimeo Plugin; fork for Sage/Webpack/JQ3; forked from v2 by DominikAngerer",
   "main": "src/Vimeo.js",
   "directories": {
     "example": "example"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DominikAngerer/videojs-vimeo.git"
+    "url": "git+https://github.com/jrgd/videojs-vimeo.git"
   },
   "keywords": [
     "video-js",
@@ -21,7 +21,7 @@
   "author": "Benoit Tremblay <trembl.ben@gmail.com>, DominikAngerer <me@dominikangerer.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DominikAngerer/videojs-vimeo/issues"
+    "url": "https://github.com/jrgd/videojs-vimeo/issues"
   },
-  "homepage": "https://github.com/DominikAngerer/videojs-vimeo#readme"
+  "homepage": "https://github.com/jrgd/videojs-vimeo#readme"
 }
